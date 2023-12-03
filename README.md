@@ -39,4 +39,4 @@ Image classification is a dynamic field that continues to benefit from advanceme
 
 ## Contributors
 
-- Dimitrios Poulimenos (dpoulimen0s) - Initial work
+- Dimitrios Poulimenos ([dpoulimenos](https://www.linkedin.com/in/dpoulimenos/)) - Initial work 
