@@ -32,6 +32,7 @@ To use the provided CNN architecture, LeNet, and VGGNet models, follow these ste
 ## Results
 
 The project aims to achieve high accuracy in image classification. Performance metrics, such as accuracy, precision, recall, and F1 score, are calculated and presented in the results section. Comparative analyses between the CNN architecture, LeNet, and VGGNet provide insights into the strengths and weaknesses of each model.
+![Results](cnn_results.png)
 
 ## Conclusion
 
